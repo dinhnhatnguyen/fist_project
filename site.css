@@ -11,10 +11,9 @@
     font-size: 16px;
 }
 body{
-    background-image: url(images/bg-pattern-desktop.svg);
     background-repeat: no-repeat;
     background-size: 100%;
-    background:rgba(0,0,0,0.05);
+    background-color: #fff7f7;  
 }
 .container{
     width: 1410px;
